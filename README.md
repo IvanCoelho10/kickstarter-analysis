@@ -28,6 +28,8 @@ Projects with higher costs have a very high failure percentage.
 
 - What are some other possible tables and/or graphs that we could create?
 
-We can identify the most successful Parent category.
-We can identify the projects that had a higher percentage of donations.
-We can separate the outcomes by country to know the amount invested in each one.
+1- We can identify the most successful Parent category.
+
+2- We can identify the projects that had a higher percentage of donations.
+
+3- We can separate the outcomes by country to know the amount invested in each one.
