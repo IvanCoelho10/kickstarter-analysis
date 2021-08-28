@@ -8,7 +8,7 @@ The purpose of this view was to track which campaign was successful, which campa
 
 ## Analysis and Challenges
 
-My main challenge was how to add the functions of each column and how to read the Plot area and outliers.
+My main challenge was how to add the functions of each column and how to read the Plot area and outliers, through Canvas I was able to identify and make a better reading about the topic.
 
 ![2021-08-28 (2)](https://user-images.githubusercontent.com/87731897/131226620-d6d33ced-7aee-4a7e-b4df-8d03740610ed.png)
 
