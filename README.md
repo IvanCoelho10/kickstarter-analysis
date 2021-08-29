@@ -15,13 +15,14 @@ My main challenge was how to add the functions of each column and how to read th
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+![](https://github.com/IvanCoelho10/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 1- The first analysis that can be done is that the campaigns carried out in May were more successful than in the other months of the year.
 
 2- Canceled projects maintained regularity throughout the year.
 
 - What can you conclude about the Outcomes based on Goals?
-
+![](https://github.com/IvanCoelho10/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
 The percentage of success of projects with a goal up to 9999 had a greater success, considering that these projects represent 85% of the total projects.
 
 - What are some limitations of this dataset?
@@ -35,3 +36,4 @@ Projects with higher costs have a very high failure percentage.
 2- We can identify the projects that had a higher percentage of donations.
 
 3- We can separate the outcomes by country to know the amount invested in each one.
+
